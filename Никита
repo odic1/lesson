@@ -1,0 +1,8 @@
+Практическая работа по уроку "Динамическая типизация"name = "Nikita"
+print(type(name))
+age = 31
+print(type(age))
+newage = 31.5
+print(type(newage))
+is_student = True
+print(is_student)
